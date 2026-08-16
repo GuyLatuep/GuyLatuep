@@ -54,12 +54,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GuyLatuep&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=00000000&icon_color=58A6FF" />
-    <img src="https://github-readme-stats.vercel.app/api?username=GuyLatuep&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000" height="150" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=GuyLatuep&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=00000000&icon_color=58A6FF" />
+    <img src="https://github-readme-stats.shion.dev/api?username=GuyLatuep&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000" height="150" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLatuep&layout=compact&hide_border=true&hide_title=true&langs_count=8&theme=github_dark&bg_color=00000000&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLatuep&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000" height="150" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=GuyLatuep&layout=compact&hide_border=true&hide_title=true&langs_count=8&theme=github_dark&bg_color=00000000&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GuyLatuep&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000" height="150" alt="Top languages" />
   </picture>
 </p>
 
