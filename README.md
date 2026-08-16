@@ -46,7 +46,6 @@
 | | |
 |---|---|
 | **[performa](https://github.com/GuyLatuep/performa)** | Tauri desktop app for logging work hours against Jira Cloud without the browser tax. `TypeScript` `Rust` |
-| **[memento](https://github.com/GuyLatuep/memento)** | Meeting transcriber that runs locally on Windows. `Rust` |
 | **[ping-plotter](https://github.com/GuyLatuep/ping-plotter)** | Pings a list of hosts on a 2s tick, plots the results in the console and logs them. `Rust` |
 | **[logfinder](https://github.com/GuyLatuep/logfinder)** | Terminal UI that regex-searches log trees and opens the hit in your editor at file, line and column. `Go` |
 
