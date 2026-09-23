@@ -48,7 +48,7 @@
 | **[performa](https://github.com/GuyLatuep/performa)** | Tauri desktop app for logging work hours against Jira Cloud without the browser tax. `TypeScript` `Rust` |
 | **[ping-plotter](https://github.com/GuyLatuep/ping-plotter)** | Pings a list of hosts on a 2s tick, plots the results in the console and logs them. `Rust` |
 | **[DBDoku](https://github.com/GuyLatuep/Dbdoku)** | Python project to create a readable database documentation from dacpacs `Python` |
-| **[Flow.Launcher.Plugin.RemoteDesktopManager](https://github.com/GuyLatuep/Flow.Launcher.Plugin.RemoteDesktopManager)** |  Plugin for Flow Launcher to search and open Remotedesktop sessions `Python` |
+| **[Flow.Launcher.Plugin.RDM](https://github.com/GuyLatuep/Flow.Launcher.Plugin.RemoteDesktopManager)** |  Plugin for Flow Launcher to search and open Remotedesktop sessions `Python` |
 
 ### 📊 Stats
 
